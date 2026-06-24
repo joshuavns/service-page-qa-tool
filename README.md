@@ -12,7 +12,9 @@ Checks are ported from the Key Pages Generator's `runQAChecks` engine. The tool
 runs **entirely in your browser** — nothing is uploaded.
 
 ## Use it
-- Hosted: enable GitHub Pages on this repo, then open the repo's Pages URL.
-- Local: download `index.html` and open it in any browser.
+
+**Live tool: https://joshuavns.github.io/service-page-qa-tool/**
+
+Or download `index.html` and open it in any browser (it runs offline, fully client-side).
 
 Sibling tools: [home-page-qa-tool](https://github.com/joshuavns/home-page-qa-tool) · [service-page-qa-tool](https://github.com/joshuavns/service-page-qa-tool) · [about-us-page-qa-tool](https://github.com/joshuavns/about-us-page-qa-tool)
